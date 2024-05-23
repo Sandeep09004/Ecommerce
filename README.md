@@ -21,43 +21,44 @@ The Clothing eCommerce Website allows users to browse and purchase clothing item
 1. Clone the repository:
    ```bash
    git clone https://github.com/your_username/clothing-ecommerce-website.git
-
-Navigate to the project directory:
+   ```
+2. Navigate to the project directory:
 ```bash
 cd clothing-ecommerce-website
+```
 
-Install backend dependencies:
-
-
+3. Install backend dependencies:
+```bash
 cd backend
 npm install
+```
 
 Install frontend dependencies:
-
-
+```sh
 cd ../frontend
 npm install
+```
 
 Set up environment variables:
-
 Create a .env file in the backend directory and add the following:
-
+```sh
 NODE_ENV=development
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
+```
 Start the development server:
 
 Backend:
-
+```sh
 cd backend
 npm run dev
-
+```
 Frontend:
-
+```sh
 cd ../frontend
 npm start
-
+```
 Usage
 Open your browser and navigate to http://localhost:3000 to access the frontend.
 Use Postman or a similar tool to test backend APIs at http://localhost:5000/api.
