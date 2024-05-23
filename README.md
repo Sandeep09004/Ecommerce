@@ -83,10 +83,10 @@ Use Postman or a similar tool to test backend APIs at http://localhost:5000/api.
 To add screenshots, save your images in a screenshots directory in the root of your project and reference them in the README.md file as shown above.
 
 Project Structure
-backend/: Contains the backend code (Node.js, Express)
-frontend/: Contains the frontend code (React)
-screenshots/: Contains screenshots of different sections of the website
+backend: Contains the backend code (Node.js, Express)
+frontend: Contains the frontend code (React)
 README.md: Project documentation
+
 Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure your code follows the project's coding standards and includes appropriate tests.
 
@@ -95,6 +95,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 Acknowledgements
 Thanks to the open-source community for the libraries and tools used in this project.
 Special thanks to contributors for their valuable inputs and support.
+
 Contact
 For any queries or suggestions, feel free to contact:
 
