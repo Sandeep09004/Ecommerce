@@ -98,4 +98,4 @@ Special thanks to contributors for their valuable inputs and support.
 Contact
 For any queries or suggestions, feel free to contact:
 
-Your Name - pallsandeep454@gmail.com
+Sandeep Pal - pallsandeep454@gmail.com
