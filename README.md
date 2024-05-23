@@ -62,8 +62,11 @@ npm start
 Usage
 Open your browser and navigate to http://localhost:3000 to access the frontend.
 Use Postman or a similar tool to test backend APIs at http://localhost:5000/api.
+
+
 Screenshots
-Home Page
+### Home Page
+![Home Page](https://drive.google.com/file/d/1xlWL2DY4uVV4UKkgGYg_ZJackl9m6wN5/view?usp=drive_link)
 
 Authentication Page
 
