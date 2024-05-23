@@ -59,12 +59,12 @@ Frontend:
 cd ../frontend
 npm start
 ```
-Usage
+## Usage
 Open your browser and navigate to http://localhost:3000 to access the frontend.
 Use Postman or a similar tool to test backend APIs at http://localhost:5000/api.
 
 
-#### Screenshots
+## Screenshots
 ### Home Page
 ![Home Page](https://drive.google.com/uc?id=1xlWL2DY4uVV4UKkgGYg_ZJackl9m6wN5)
 
@@ -82,21 +82,21 @@ Use Postman or a similar tool to test backend APIs at http://localhost:5000/api.
 
 To add screenshots, save your images in a screenshots directory in the root of your project and reference them in the README.md file as shown above.
 
-Project Structure
+## Project Structure
 backend: Contains the backend code (Node.js, Express)
 frontend: Contains the frontend code (React)
 README.md: Project documentation
 
-Contributing
+## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure your code follows the project's coding standards and includes appropriate tests.
 
 
 
-Acknowledgements
+## Acknowledgements
 Thanks to the open-source community for the libraries and tools used in this project.
 Special thanks to contributors for their valuable inputs and support.
 
-Contact
+## Contact
 For any queries or suggestions, feel free to contact:
 
 Sandeep Pal - pallsandeep454@gmail.com
