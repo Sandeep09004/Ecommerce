@@ -23,8 +23,9 @@ The Clothing eCommerce Website allows users to browse and purchase clothing item
    git clone https://github.com/your_username/clothing-ecommerce-website.git
 
 Navigate to the project directory:
-
+```bash
 cd clothing-ecommerce-website
+
 Install backend dependencies:
 
 
